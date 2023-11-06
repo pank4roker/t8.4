@@ -1,0 +1,8 @@
+D:\115\е84\bin\Debug\е84.exe.config
+D:\115\е84\bin\Debug\е84.exe
+D:\115\е84\bin\Debug\е84.pdb
+D:\115\е84\obj\Debug\е84.csproj.AssemblyReference.cache
+D:\115\е84\obj\Debug\е84.csproj.SuggestedBindingRedirects.cache
+D:\115\е84\obj\Debug\е84.csproj.CoreCompileInputs.cache
+D:\115\е84\obj\Debug\е84.exe
+D:\115\е84\obj\Debug\е84.pdb
